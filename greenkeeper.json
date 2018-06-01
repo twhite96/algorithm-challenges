@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "completed_exercises/package.json",
+        "exercises/package.json"
+      ]
+    }
+  }
+}
